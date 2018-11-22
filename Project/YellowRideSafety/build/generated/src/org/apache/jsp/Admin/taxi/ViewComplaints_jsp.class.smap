@@ -1,0 +1,25 @@
+SMAP
+ViewComplaints_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewComplaints.jsp
+Admin/taxi/ViewComplaints.jsp
++ 1 header.jsp
+Admin/taxi/header.jsp
++ 2 footer.jsp
+Admin/taxi/footer.jsp
+*L
+5:51
+1#1,77:52
+6#0,7:128
+12:134,9
+13,84:143
+96,8:227
+103,2:235
+105,5:237,3
+110,2:252
+111,5:254
+115,10:259
+5#2,9:268
+*E

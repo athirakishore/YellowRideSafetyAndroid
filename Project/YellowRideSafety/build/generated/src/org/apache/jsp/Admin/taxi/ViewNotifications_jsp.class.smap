@@ -1,0 +1,27 @@
+SMAP
+ViewNotifications_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewNotifications.jsp
+Admin/taxi/ViewNotifications.jsp
++ 1 header.jsp
+Admin/taxi/header.jsp
++ 2 footer.jsp
+Admin/taxi/footer.jsp
+*L
+5,2:51
+11:53
+1#1,70:54
+12#0,7:123
+18:129,9
+19,84:138
+102,8:222
+109,2:230
+111,5:232,3
+116,2:247
+117,5:249
+121,10:254
+5#2,9:263
+130#0:272
+*E
